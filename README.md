@@ -1,3 +1,3 @@
 # Machine-Learning-Projects
 
-This is just for educational purposes only... to demonstrate me doing some work in python.
+All of these projects are to practice my skills in python, data analysis, and data cleaning.
